@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, this is Geoff
 
-<!--
-**eddietorial/eddietorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Operations & Incident Response Automation | SIEM, EDR, & Memory Forensics Specialist | API Integration | Cyber Data Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About 
+- Geoff is a detail-driven Cybersecurity Specialist with 10+ years of experience in security operations, Security Information and Event Management (SIEM) tuning, incident response, and workflow automation
+- He brings deep proficiency in scripting (PowerShell, Python), log parsing, and data engineering across Windows, Linux, and FreeBSD environments, delivering hands-on expertise in log correlation, and threat detection
+- His technical arsenal spans enterprise tools and platforms such as Splunk, CrowdStrike, Tenable.sc, and ServiceNow, with a strong emphasis on API integration and automation  
+- He is open to **remote opportunities** in cybersecurity / security data science  
+
+---
+
+## Tech & Tools
+- **Scripting & Automation**: PowerShell, Python, KornShell, REST API
+- **Security Tools**: Splunk, Tenable.sc, Volatility, Burp Suite
+- **ML & Data**: Pandas, Scikit-learn, TensorFlow 
+- **Platforms**: Windows, Linux, FreeBSD
+
+---
+
+
+## Connect with Me
+- [Personal Website](https://www.eddietorial.net/)  
+- [LinkedIn](https://www.linkedin.com/in/geoffrey-moraes/)  
+
+---
+
