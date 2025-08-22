@@ -1,4 +1,4 @@
-# Hi, this is Geoff!
+# Hi, this is Geoff
 
 Security Operations & Incident Response Automation | SIEM, EDR, & Memory Forensics Specialist | API Integration | Cyber Data Engineering
 
