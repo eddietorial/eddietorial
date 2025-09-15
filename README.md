@@ -1,6 +1,6 @@
 # Hi, this is Geoff
 
-Security Operations & Incident Response Automation | API Integration 
+Cybersecurity & IT Automation Specialist | Security Operations & Incident Response | SIEM Engineering | API Integration
 
 ---
 
