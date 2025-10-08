@@ -22,6 +22,7 @@ API Security & Integration Specialist | Cybersecurity Automation
 
 ## Connect with Me
 - [Personal Website](https://www.eddietorial.net/)  
+- [Mastodon](https://infosec.exchange/@eddietorial)
 - [LinkedIn](https://www.linkedin.com/in/geoffrey-moraes/)  
 
 ---
