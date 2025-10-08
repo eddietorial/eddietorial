@@ -1,22 +1,22 @@
 # Hi, this is Geoff
 
-Cybersecurity & IT Automation Specialist | Security Operations & Incident Response | SIEM Engineering | API Integration
+API Security & Integration Specialist | Cybersecurity Automation
 
 ---
 
 ## About 
-- Geoff is a Cybersecurity and IT Automation Specialist with 15+ years of experience enhancing security operations and streamlining technology workflows
-- He combines expertise in Security Operations, Incident Response, and SIEM engineering with strengths in automation and API integration, helping organizations detect threats faster and respond with greater efficiency
-- Skilled in threat detection, memory forensics, log correlation, and workflow automation, Geoff designs solutions that reduce noise, improve visibility, and accelerate decision-making. His background includes building custom API integrations, orchestration pipelines, and automated response workflows that seamlessly connect security, IT, and business systems
-- Geoff blends technical precision with creative problem-solving to deliver scalable, real-world results
-- Focused on advancing security operations by building scalable, automated solutions that empower teams to work smarter and respond faster.
+- With 15+ years in cybersecurity and IT automation, I specialize in building RESTful API integrations that strengthen defenses, accelerate incident response, and connect security tools at scale.
+- My work includes creating API automation frameworks that reduce manual effort, orchestrating cross-platform security workflows, and embedding OWASP API Security Top 10 practices into every integration. I have led teams to improve incident response efficiency, automated SOC workflows, and delivered secure, scalable API solutions for vulnerability management and threat intelligence.
+- Core strengths: API security design, OAuth and authentication, workflow automation, incident response, and SIEM engineering. I translate complex security needs into reliable, API-driven architectures that enable faster detection and smarter decisions.
+- Focused on advancing API security and automation to help organizations protect data, respond to threats, and integrate AI-ready security platforms.
 
----
 
-## Tech & Tools
-- **Scripting | Automation | APIs**: Proficient in workflow automation and API-driven orchestration. Experienced in leveraging REST APIs to integrate, extend, and automate diverse security platforms
-- **API Security & Development**: OWASP API Security Top 10, secure integration practices
-
+- **API Integration & Orchestration**: RESTful APIs, API-driven workflow automation, cross-platform security tool integration, scalable API frameworks.
+- **API Security**: OWASP API Security Top 10, OAuth, secure authentication and authorization, secure API design and consumption.
+- **Automation & Scripting**: Workflow automation, incident response orchestration, process optimization using APIs and scripting.
+- **Security Operations**: Incident detection and response, vulnerability management automation, log correlation and analytics.
+- **Risk & Compliance**: Risk assessment, security governance, and controls mapping to cybersecurity frameworks.
+- **Consulting & Analytical Skills**: Translating complex technical issues into actionable recommendations for stakeholders.
 ---
 
 
