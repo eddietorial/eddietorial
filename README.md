@@ -5,10 +5,13 @@ API Security & Integration Specialist | Cybersecurity Automation
 ---
 
 ## About 
-- With 15+ years in cybersecurity and IT automation, I specialize in building RESTful API integrations that strengthen defenses, accelerate incident response, and connect security tools at scale.
-- My work includes creating API automation frameworks that reduce manual effort, orchestrating cross-platform security workflows, and embedding OWASP API Security Top 10 practices into every integration. I have led teams to improve incident response efficiency, automated SOC workflows, and delivered secure, scalable API solutions for vulnerability management and threat intelligence.
-- Core strengths: API security design, OAuth and authentication, workflow automation, incident response, and SIEM engineering. I translate complex security needs into reliable, API-driven architectures that enable faster detection and smarter decisions.
-- Focused on advancing API security and automation to help organizations protect data, respond to threats, and integrate AI-ready security platforms.
+I have 15+ years of experience in cybersecurity and IT automation, specializing in building RESTful API integrations that strengthen defenses, accelerate incident response, and connect security tools at scale.
+
+My work includes creating API automation frameworks that reduce manual effort, orchestrating cross-platform security workflows, and embedding OWASP API Security Top 10 practices into every integration. I have led teams to improve incident response efficiency, automate SOC workflows, and deliver secure, scalable API solutions for vulnerability management and threat intelligence.
+
+Core strengths: API security design, OAuth and authentication, workflow automation, incident response, and SIEM engineering. I translate complex security needs into reliable, API-driven architectures that enable faster detection and smarter decisions.
+
+Focused on advancing API security and automation to help organizations protect data, respond to threats, and integrate AI-ready security platforms.
 
 
 - **API Integration & Orchestration**: RESTful APIs, API-driven workflow automation, cross-platform security tool integration, scalable API frameworks.
