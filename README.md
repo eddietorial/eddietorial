@@ -10,15 +10,15 @@ Security Automation Engineer with 15+ years building secure systems, automating 
 Specialized in Security Automation, SIEM Integration, SOC Automation, Incident Response Automation and API-based telemetry orchestration. Developer of automation pipelines that enable real-time enrichment, reduce manual SOC processes and improve detection accuracy.
 
 Hands-on experience designing and implementing:
-• SIEM engineering and automation (Splunk and comparable platforms)
-• Security Orchestration (SOAR-style workflows) and API integrations
-• Python and PowerShell automation for incident response and data ingestion
-• Secure API design and security testing aligned with OWASP API Top 10
+- SIEM engineering and automation (Splunk and comparable platforms)
+- Security Orchestration (SOAR-style workflows) and API integrations
+- Python and PowerShell automation for incident response and data ingestion
+- Secure API design and security testing aligned with OWASP API Top 10
 
 Measurable impact:
-• Reduced vulnerability reporting cycles from days to hours through automation
-• Improved SOC triage accuracy by 40% with telemetry enrichment pipelines
-• Standardized API-driven integrations across cloud and on-prem environments
+- Reduced vulnerability reporting cycles from days to hours through automation
+- Improved SOC triage accuracy by 40% with telemetry enrichment pipelines
+- Standardized API-driven integrations across cloud and on-prem environments
 
 ---
 
