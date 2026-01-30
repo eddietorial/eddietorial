@@ -1,25 +1,24 @@
 # Hi, this is Geoff
 
-API Security & Integration Specialist | Cybersecurity Automation
+Security Automation Engineer | SIEM Engineer | SOC Automation | Incident Response Automation | API Integrations
 
 ---
 
 ## About 
-I have 15+ years of experience in cybersecurity and IT automation, specializing in building RESTful API integrations that strengthen defenses, accelerate incident response, and connect security tools at scale.
+Security Automation Engineer with 15+ years building secure systems, automating security operations, and integrating security platforms across enterprise environments.
 
-My work includes creating API automation frameworks that reduce manual effort, orchestrating cross-platform security workflows, and embedding OWASP API Security Top 10 practices into every integration. I have led teams to improve incident response efficiency, automate SOC workflows, and deliver secure, scalable API solutions for vulnerability management and threat intelligence.
+Specialized in Security Automation, SIEM Integration, SOC Automation, Incident Response Automation and API-based telemetry orchestration. Developer of automation pipelines that enable real-time enrichment, reduce manual SOC processes and improve detection accuracy.
 
-Core strengths: API security design, OAuth and authentication, workflow automation, incident response, and SIEM engineering. I translate complex security needs into reliable, API-driven architectures that enable faster detection and smarter decisions.
+Hands-on experience designing and implementing:
+• SIEM engineering and automation (Splunk and comparable platforms)
+• Security Orchestration (SOAR-style workflows) and API integrations
+• Python and PowerShell automation for incident response and data ingestion
+• Secure API design and security testing aligned with OWASP API Top 10
 
-Focused on advancing API security and automation to help organizations protect data, respond to threats, and integrate AI-ready security platforms.
-
-
-- **API Integration & Orchestration**: RESTful APIs, API-driven workflow automation, cross-platform security tool integration, scalable API frameworks.
-- **API Security**: OWASP API Security Top 10, OAuth, secure authentication and authorization, secure API design and consumption.
-- **Automation & Scripting**: Workflow automation, incident response orchestration, process optimization using APIs and scripting.
-- **Security Operations**: Incident detection and response, vulnerability management automation, log correlation and analytics.
-- **Risk & Compliance**: Risk assessment, security governance, and controls mapping to cybersecurity frameworks.
-- **Consulting & Analytical Skills**: Translating complex technical issues into actionable recommendations for stakeholders.
+Measurable impact:
+• Reduced vulnerability reporting cycles from days to hours through automation
+• Improved SOC triage accuracy by 40% with telemetry enrichment pipelines
+• Standardized API-driven integrations across cloud and on-prem environments
 ---
 
 
