@@ -19,6 +19,7 @@ Measurable impact:
 • Reduced vulnerability reporting cycles from days to hours through automation
 • Improved SOC triage accuracy by 40% with telemetry enrichment pipelines
 • Standardized API-driven integrations across cloud and on-prem environments
+
 ---
 
 
